@@ -1,0 +1,29 @@
+# Archivos del sistema (Windows, macOS)
+Thumbs.db
+.DS_Store
+
+# Archivos temporales de editores comunes
+*.swp
+*.tmp
+
+# Archivos de entorno local
+.env
+.vscode/
+
+# Archivos de compilación o salida
+build/
+dist/
+*.log
+
+# Archivos PDF, DOCX, ZIP
+# *.pdf
+# *.docx
+# *.zip
+
+# Archivos de caché y dependencias
+_pycache_/
+node_modules/
+
+# Archivos personales o de backup
+*.bak
+*.backup

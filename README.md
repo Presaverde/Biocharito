@@ -14,6 +14,18 @@ El sistema busca remover contaminantes físicos, químicos y biológicos mediant
 - Simulaciones y modelado de obleas microestructuradas
 - Propuesta para R&D previo a julio 2025
 
+
+## Estructura del repositorio
+
+- /academia – Fundamentos científicos, papers y colaboraciones académicas  
+- /comunicacion – Materiales para difusión y campañas sociales  
+- /diseño – Diseño de prototipos, modelos y estructuras físicas  
+- /docs – Documentos formales, propuestas y referencias  
+- VISION.md – Declaración de visión y objetivos a largo plazo  
+- CONTRIBUIR.md – Guía para colaboradores  
+- MANIFIESTO – Valores y filosofía del proyecto
+
+
 ## 🔍 Motivación
 
 - Aprovechar residuos agroindustriales (bagazo de agave)
