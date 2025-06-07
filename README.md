@@ -33,6 +33,14 @@ Impulsar el desarrollo y la implementación de tecnologías basadas en biochar d
 - Transparencia total en procesos, resultados y financiamiento
 - Fomento de la colaboración abierta entre comunidad, academia y sector ambiental
 
+## 📱 Síguenos y participa
+
+- Twitter/X: [@presaverde](https://x.com/presaverde)  
+- TikTok: [@presaverde](https://www.tiktok.com/@presaverde)  
+- Correo oficial: presaverde@proton.me  
+- GitHub: [Presaverde](https://github.com/presaverde)
+
+
 ## ⚖️ Licencia
 
 El contenido y código de este proyecto están liberados bajo licencia [GNU GPL v3.0](./LICENSE), promoviendo el acceso libre y la innovación abierta.
