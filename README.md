@@ -1,43 +1,44 @@
-# Desarrollo de filtros modulares de Biochar funcionalizado mediante pirolisis asistida por grabado láser a partir de bagazo de agave
+# Presaverde: Innovación abierta para la recuperación hídrica
 
-Este proyecto nace en el Área Metropolitana de Guadalajara (AMG) como una propuesta abierta, accesible y ética para enfrentar la crisis hídrica y la contaminación mediante el desarrollo de filtros a partir de biochar de agave.
+Presaverde es una iniciativa colaborativa y transparente que busca convertirse en una Asociación Civil (A.C.) enfocada en desarrollar soluciones tecnológicas sustentables para combatir la contaminación hídrica. 
 
-## 📘 Objetivo
+Actualmente, Presaverde funciona como un proyecto abierto y colaborativo, basado en principios de acceso libre, ética y participación comunitaria.
 
-Diseñar y prototipar filtros modulares apilables usando bagazo de agave pirolizado, estructurado en obleas delgadas, con microcanales funcionalizados mediante grabado láser.  
-El sistema busca remover contaminantes físicos, químicos y biológicos mediante absorción, adsorción y microfluídica controlada.
+## 📘 Nuestra misión
+
+Impulsar el desarrollo y la implementación de tecnologías basadas en biochar de bagazo para purificación modular y descentralizada del agua, fomentando la economía circular y la sostenibilidad ambiental.
 
 ## ⚙️ Estado actual
 
-- Recopilación de materiales (bagazo)
-- Primeros ensayos de secado, molienda, coloidación y pirolización artesanal
-- Simulaciones y modelado de obleas microestructuradas
-- Propuesta para R&D previo a julio 2025
+- Proyecto en fase de desarrollo y documentación abierta
+- Prototipado de filtros modulares de biochar funcionalizado mediante pirolisis asistida por grabado láser
+- Consolidación de red colaborativa multidisciplinaria
+- Preparación para formalizar la organización como Asociación Civil en el corto o mediano plazo
 
+## 📂 Estructura del repositorio
 
-## Estructura del repositorio
+- /academia – Fundamentos científicos y publicaciones
+- /comunicacion – Material de difusión y campañas
+- /diseño – Bocetos, prototipos y diagramas
+- /docs – Documentos oficiales, propuestas y actas
+- VISION.md – Visión y valores de Presaverde
+- CONTRIBUIR.md – Guía para colaboradores
+- MANIFIESTO.md – Principios éticos y filosóficos
+- LICENCE – Licencia Open Source GPL-3.0 Licence
 
-- /academia – Fundamentos científicos, papers y colaboraciones académicas  
-- /comunicacion – Materiales para difusión y campañas sociales  
-- /diseño – Diseño de prototipos, modelos y estructuras físicas  
-- /docs – Documentos formales, propuestas y referencias  
-- VISION.md – Declaración de visión y objetivos a largo plazo  
-- CONTRIBUIR.md – Guía para colaboradores  
-- MANIFIESTO – Valores y filosofía del proyecto
+## 🔍 Motivación y enfoque
 
-
-## 🔍 Motivación
-
-- Aprovechar residuos agroindustriales (bagazo de agave)
-- Desarrollar tecnología modular para purificación de agua contaminada (ej. Río Santiago)
-- Crear alternativas sustentables al carbón activado, accesibles y de libre fabricación
+- Uso de residuos agroindustriales como bagazo de agave para generación de biochar
+- Diseño de filtros modulares, accesibles y descentralizados para purificación hídrica
+- Transparencia total en procesos, resultados y financiamiento
+- Fomento de la colaboración abierta entre comunidad, academia y sector ambiental
 
 ## ⚖️ Licencia
 
-Este repositorio está publicado bajo la licencia [GNU General Public License v3.0](./LICENSE).  
-Cualquier trabajo derivado debe mantenerse libre y abierto al público. No se permite su uso para patentes cerradas ni apropiaciones que restrinjan su propósito social y ambiental.
+El contenido y código de este proyecto están liberados bajo licencia [GNU GPL v3.0](./LICENSE), promoviendo el acceso libre y la innovación abierta.
 
-## ✊ Autoría
+## ✊ Autoría y colaboración
 
-Creado por [zyphx97](https://github.com/zyphx97)  
-Junio 2025 — Jalisco, México
+Creado y coordinado por [zyphx97](https://github.com/zyphx97) con la colaboración de la comunidad abierta.
+
+Junio 2025 — Área Metropolitana de Guadalajara, México
