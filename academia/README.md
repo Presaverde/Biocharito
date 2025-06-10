@@ -15,8 +15,11 @@ Reunir investigaciones, referencias, datos y colaboraciones con instituciones ed
 
 ## Organización
 
-- Los archivos están agrupados por tipo de documento y relevancia tématica. 
-- En el futuro, podría integrarse un sistema de versionado de literatura o citación automatizada.
+- Estructura de exploración hibrida, investigación & desarrollo paralelos. 
+- Cada rama academica contiene: 
+	1.- Razón y motivo de elección: comparativa sintactica, epistemologica, aplicativa industrial y escalabilidad, con metodos alternativos.
+	2.- Órbita: enfásis en el panorama y entorno epistemologicos de la elección, ¿Qué sucede alrededor de la rama academica objetivo?, ¿Es medible o cuantificable el impacto del desarrollo paralelo de tecnologías?, etc.
+	3.- Alternativa: obligación moral y etica hacia la investigación, desarrollo e importancia de la "competencia" directa o indirecta de la rama academica.
 
 ## Como colaborar
 

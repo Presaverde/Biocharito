@@ -1,12 +1,12 @@
-# Presaverde: Innovación abierta para la recuperación hídrica
+# BioCharito: Filtros de BioChar estructurado para la remediación hídrica descentralizada.
 
-Presaverde es una iniciativa colaborativa y transparente que busca convertirse en una Asociación Civil (A.C.) enfocada en desarrollar soluciones tecnológicas sustentables para combatir la contaminación hídrica. 
+**Proyecto subsidiario de [PresaVerde](https://github.com/presaverde)**  
 
-Actualmente, Presaverde funciona como un proyecto abierto y colaborativo, basado en principios de acceso libre, ética y participación comunitaria.
+Filtros de BioChar microestructurado y funcionalizado para la remediación hídrica descentralizada de aguas contaminadas en el Area Metropolitana de Guadalajara (AMG).
 
 ## 📘 Nuestra misión
 
-Impulsar el desarrollo y la implementación de tecnologías basadas en biochar de bagazo para purificación modular y descentralizada del agua, fomentando la economía circular y la sostenibilidad ambiental.
+Presentar una alternativa publica, transparente y replicable a los sistemas de filtración comercial / privada, buscando la implementación sin fines de lucro en zonas de necesidad para las soluciones del agua.
 
 ## ⚙️ Estado actual
 
